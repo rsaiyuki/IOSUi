@@ -41,4 +41,8 @@
         <item name="android:windowExitAnimation">@anim/actionsheet_dialog_out</item>
     </style>
 
+    <!--progress-->
+    <style name="DialogTheme" parent="android:Theme.Dialog">
+        <item name="android:windowBackground">@drawable/dialog_background</item>
+    </style>
 </resources>
